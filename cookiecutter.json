@@ -1,6 +1,6 @@
 {
-  "author": "Florian Maas",
-  "author_github_handle": "fpgmaas",
+  "author": "Saad Hamid",
+  "author_github_handle": "sd-hmd",
   "codecov": [
     "y",
     "n"
@@ -17,14 +17,14 @@
     "y",
     "n"
   ],
-  "email": "fpgmaas@gmail.com",
+  "email": "saadhamid96@gmail.com",
   "include_github_actions": [
     "y",
     "n"
   ],
   "layout": [
-    "flat",
-    "src"
+    "src",
+    "flat"
   ],
   "mkdocs": [
     "y",
@@ -38,7 +38,7 @@
     "GNU General Public License v3",
     "Not open source"
   ],
-  "project_description": "This is a template repository for Python projects that use uv for their dependency management.",
+  "project_description": "This is a template repository for Python projects.",
   "project_name": "example-project",
   "project_slug": "{{cookiecutter.project_name|lower|replace('-', '_')}}",
   "publish_to_pypi": [
